@@ -70,5 +70,9 @@ print(type(6 / 3))
 print(3 * 3 + 3 / 3 - 3)
 print(3 * (3 + 3) / 3 - 3)
 
+print(int(8 / 3))
+#Round function can be used to round the number
+print(round(8 / 3))
+
 
 
