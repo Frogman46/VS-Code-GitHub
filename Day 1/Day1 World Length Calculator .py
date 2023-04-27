@@ -6,3 +6,5 @@ print(name)
 name = input("What is your name? ")
 length = len(name)
 print(length)
+
+print(len(input("what is your name? ")))
