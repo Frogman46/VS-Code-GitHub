@@ -19,3 +19,12 @@ print(type(6 / 3))
 
 print(3 * 3 + 3 / 3 - 3)
 print(3 * (3 + 3) / 3 - 3)
+
+#Round Function
+print(int(8 / 3))
+#Round function can be used to round the number
+print(round(8 / 3))
+
+result = 4 / 2
+result /=2
+print(result)

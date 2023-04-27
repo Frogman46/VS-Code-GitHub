@@ -70,9 +70,30 @@ print(type(6 / 3))
 print(3 * 3 + 3 / 3 - 3)
 print(3 * (3 + 3) / 3 - 3)
 
+#Round Function
 print(int(8 / 3))
 #Round function can be used to round the number
 print(round(8 / 3))
+
+result = 4 / 2
+result /=2
+print(result)
+
+#To See Score
+
+score = 0
+score +- 1
+print(score)
+
+
+#fstring:In Python, an f-string (formatted string literal) is a way to embed expressions inside string literals, 
+# using a syntax that starts with the letter "f" or "F" before the opening quotation mark.
+
+score = 0
+height = 1.63
+winning = True
+#f-String
+print(f"your score is {score}, your height is {height}, your wininng is {winning}")
 
 
 
